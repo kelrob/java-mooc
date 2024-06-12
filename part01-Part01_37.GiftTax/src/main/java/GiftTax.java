@@ -43,4 +43,5 @@ public class GiftTax {
             System.out.println("Tax: " + taxValue);
         }
     }
+    //
 }
