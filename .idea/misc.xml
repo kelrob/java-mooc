@@ -11,6 +11,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/part01-Part01_01.Sandbox/pom.xml" />
+        <option value="$PROJECT_DIR$/part01-Part01_37.GiftTax/pom.xml" />
       </set>
     </option>
   </component>
